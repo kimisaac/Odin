@@ -4,6 +4,12 @@ div {
     color: white;
     background-color: black;
   }
+p {
+  font-family: "Helvetica";
+}
+ul {
+  font-family: "Helvetica"
+}
 h2 {
     color: rgb(120, 120, 255);
 }
