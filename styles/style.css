@@ -1,5 +1,9 @@
 /* styles.css */
 
+body {
+  background-color: beige;
+}
+
 div {
     color: white;
     background-color: black;
@@ -7,9 +11,13 @@ div {
 p {
   font-family: "Helvetica";
 }
+a {
+  font-family: "Helvetica";
+}
 ul {
   font-family: "Helvetica"
 }
-h2 {
+header {
     color: rgb(120, 120, 255);
+    font-family: "Helvetica";
 }
